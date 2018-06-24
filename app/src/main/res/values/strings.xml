@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">BUY BUY</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="searchwithdot">Search for mobile</string>
+    <string name="calls">Calls</string>
+    <string name="chats">Chats</string>
+    <string name="contacts">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="action_new_chat">New chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Settings</string>
+    <string name="onlineLawer">Online Lawyer</string>
+    <string name="recruitment">Recruitment</string>
+    <string name="lawyerQuestType">What Type Of Legal assistance do you need ?</string>
+    <string name="aboutMetroVocato">About MetroVocato</string>
+    <string name="contactUs">Contact us</string>
+    <string name="shdfare">Share</string>
+    <string name="share">Share</string>
+    <string name="Registrationclient">CLIENT REGISTRATION</string>
+    <string name="account">ACCOUNT</string>
+    <string name="gender">GENDER</string>
+    <string name="lawyergender">Gender</string>
+    <string name="password">password</string>
+    <string name="phone">Phone</string>
+    <string name="datebirth">Date Of Birth</string>
+    <string name="graduationYear">Graduation Year</string>
+    <string name="lawyertype">Lawyer Type</string>
+    <string name="degree">Proffisional Degree</string>
+    <string name="terms">By Signing Up you agree to Our </string>
+    <string name="Terms">Terms Of Use</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="saturday">Saturday</string>
+    <string name="saturdayfrom">SaturDay From</string>
+    <string name="saturdayto">SaturDay to</string>
+    <string name="sunday">Sunday</string>
+    <string name="Day">Day</string>
+    <string name="weekday">WeekDay</string>
+    <string name="Notavailable">Not Available</string>
+    <string name="sundayfrom">Sunday From</string>
+    <string name="sundatto">Sunday To</string>
+    <string name="mundayfrom">Monday From</string>
+    <string name="tusdayfrom">Tuesday From</string>
+    <string name="tusdayto">Tuesday To</string>
+    <string name="wednesdayto">Wednesday To</string>
+    <string name="wednesdayfrom">Wednesday From</string>
+    <string name="tharasdayto">Thurasday To</string>
+    <string name="tharasdayfrom">Thurasday from</string>
+    <string name="mundayto">Monday To</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tharasday">Thurasday</string>
+    <string name="yourschaduleAvailability">YOUR SCHEDULE AVAILABILITY</string>
+    <string name="Schadule">Schedule</string>
+    <string name="notAvailable">Not Available</string>
+    <string name="reservationType">Reservation Type</string>
+    <string name="consultationTime">Consultation Time</string>
+    <string name="graduationyearrequired">Graduation Year required</string>
+    <string name="fileuploaded">File Uploaded successfully</string>
+    <string name="errorupload">Error Uploading file</string>
+    <string name="register">Join now</string>
+    <string name="alreadyRegistered">Already Registered in MetrVocato?</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="bookToVender">Book with the best Lawer in two minutes</string>
+    <string name="bookOnline">Book online or call</string>
+    <string name="subject">Subject</string>
+    <string name="namerequired">Name Required</string>
+    <string name="emailrequired">Email Required</string>
+    <string name="passrequired">Password Required</string>
+    <string name="dataSent">Data Sent Succesfully</string>
+    <string name="errorsentdata">Error Sent Data</string>
+    <string name="ConsultationFees">Consultation Fees</string>
+    <string name="mobilerequired">Mobile Required</string>
+    <string name="bodyrequired">Body Required</string>
+    <string name="onlinNumber">19887</string>
+    <string name="laweDetails">Lawer Details</string>
+    <string name="review">Reviews</string>
+    <string name="language">En</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="mobileComment">Mobile</string>
+    <string name="comment">Comment</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="findAlawer">Find a Lawer</string>
+    <string name="map">Map</string>
+    <string name="cancel">Cancel</string>
+    <string name="applay">Apply</string>
+    <string name="filterby">Filter by</string>
+    <string name="name">Name</string>
+    <string name="LOGINASLAWER">LOGIN AS LAWER</string>
+    <string name="typeLawyerName">Type Lawyer Name</string>
+    <string name="typeLawerName">Type Lawer Name</string>
+    <string name="readmore">Read More</string>
+    <string name="bestReview">Best Review"</string>
+    <string name="clientReview">Client Review :</string>
+    <string name="LOGINASCLIENT">LOGIN AS CLIENT</string>
+    <string name="send">Send</string>
+    <string name="Forgetyourpassword">Forget Your Password ?</string>
+    <string name="resetpass">Reset Password</string>
+    <string name="Rememberme">Remember me</string>
+    <string name="haveMetrovocato">"Don't hava a MetrVocato account ?"</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="About">About</string>
+    <string name="consultationfees">Consultation Fees</string>
+
+    <string name="findVindor">Find a Lawyer</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="bookOnlineIndustry">&amp;Book Online Instantly</string>
+    <string name="location">Location</string>
+    <string name="Area">Area</string>
+    <string name="Allareaoflow">All area of low"</string>
+    <string name="termsCondition">Terms and conditions</string>
+    <string name="required">this field required</string>
+
+    <string name="choose">---Select Gender---</string>
+    <string name="choose_depar">---Select Department---</string>
+    <string name="student">I am a Student</string>
+    <string name="city">CITY</string>
+    <string name="distric">DISTRICT</string>
+    <string name="university">---Select University---</string>
+    <string name="areas">---Select Area---</string>
+    <string name="cityyy">---Select City---</string>
+    <string name="country_spinner">---Select Country---</string>
+    <string name="area">---Select Area---</string>
+    <string name="department">DEPARTMENT</string>
+    <string name="arDepartment">Arabic</string>
+    <string name="enDepartment">English</string>
+    <string name="frenchDepartment">French</string>
+    <string name="country">Country</string>
+    <string name="office_ar">Office Address in English</string>
+    <string name="has_office">Has Office</string>
+    <string name="office_address_en">Office Address in English</string>
+    <string name="office_en">Office Address in Arabic</string>
+    <string name="offece_phone">Office Phone</string>
+    <string name="offece_mobile">Office Mobile</string>
+    <string name="save">Save</string>
+    <string name="first_name">First Name in Arabic</string>
+    <string name="last_name">Last Name in Arabic</string>
+    <string name="first_name_en">First Name in English</string>
+    <string name="last_name_en">Last Name in English</string>
+    <string name="txt_professional_ar">Professional tile in Arabic</string>
+    <string name="txt_professional_en">Professional tile in English</string>
+    <string name="txt_about_ar">About in Arabic</string>
+    <string name="txt_about_en">About in English</string>
+    <string name="specilatiy">SPECIALITY</string>
+    <string name="removeAll">Remove All</string>
+    <string name="add_speciality">Add Speciality</string>
+    <string name="service">SERVICES</string>
+    <string name="currencuy">CURRENCY</string>
+    <string name="photo">Photo</string>
+    <string name="choose_file">Choose file</string>
+    <string name="selecte_photo">Selected Photo</string>
+    <string name="licence_file">License File</string>
+    <string name="no_file">No FileChosen</string>
+    <string name="syndicated_file">Syndicated file</string>
+    <string name="ma_file">M.A File</string>
+    <string name="phd_file">PHD File</string>
+    <string name="add_services">Add Services</string>
+    <string name="currencuy_add">Add Currency</string>
+    <string name="specil">--Select Speciality--</string>
+    <string name="dollar">Dollar</string>
+    <string name="bound">Bound</string>
+    <string name="choose_currency">--Choose Currency--</string>
+    <string name="loginToAccount">Login to your account</string>
+    <string name="enter_email">Email or Mobile Number</string>
+    <string name="newon_buy">New on BuyBuy?</string>
+    <string name="crea">CREATE AN ACCOUNT</string>
+    <string name="or">OR</string>
+    <string name="face">Continue with facebook</string>
+    <string name="passwordd">Password</string>
+    <string name="gmail">Containu with Google</string>
+    <string name="registe">Create Account</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_email_addres">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_county">Country</string>
+    <string name="enter_government">Governorate</string>
+    <string name="enter_city">City</string>
+    <string name="enter_pass">Password</string>
+    <string name="confrm_password">Confirm Password</string>
+    <string name="regist">REGISTER</string>
+    <string name="filters">Filters</string>
+    <string name="pop">Popularity</string>
+    <string name="welcome">Welcome</string>
+    <string name="loginOrRegister">Login/Sign up</string>
+    <string name="myProfile">My profile</string>
+    <string name="Myorders">My orders</string>
+    <string name="shareApp">Share application with friends</string>
+    <string name="lang">Language</string>
+    <string name="searchWhatDoYouWant">What are You looking for?</string>
+    <string name="tobDeals">Top deals</string>
+    <string name="seeAllDetails">See All Details</string>
+    <string name="bestSeller">Best seller</string>
+    <string name="store">Store</string>
+    <string name="myOrders">My orders</string>
+    <string name="myWishList">My wishList</string>
+    <string name="leaveFeedBack">Leave feedback</string>
+    <string name="RateUs">Rate us on play store</string>
+    <string name="helpCenter">Help center</string>
+    <string name="pushNotification">Push notification</string>
+    <string name="quantity">quantity</string>
+    <string name="yourLastOrders">Your last orders</string>
+    <string name="total">Total</string>
+    <string name="popularity">Popularity</string>
+    <string-array name="country_arrays">
+        <item>Location</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+    <string-array name="country_area">
+        <item>Area</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+    <string-array name="All_area">
+        <item>All Area Of Low</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+</resources>

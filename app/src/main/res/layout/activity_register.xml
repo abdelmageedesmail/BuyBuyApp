@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ahmed.buybuyapp.Activities.Register">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            app:srcCompat="@drawable/ic_go_back_left_arrow"
+            android:layout_width="24dp"
+            android:padding="2dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="24dp" />
+        <TextView
+            android:padding="1dp"
+            android:textColor="@color/bacground"
+            android:text="@string/registe"
+            android:textSize="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/logo"
+            android:layout_marginBottom="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp" />
+
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_user_name"
+                android:layout_marginTop="10dp"
+                android:theme="@style/TextLabel"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatEditText
+                    android:drawablePadding="7dp"
+                    android:textColorHint="@color/textbg"
+                    android:textColor="@color/textbg"
+                    android:focusable="false"
+                    android:id="@+id/input_user_name"
+
+                    android:imeOptions="actionNext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="14sp"
+                    android:hint="@string/user_name" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_email"
+                android:layout_marginTop="5dp"
+                android:theme="@style/TextLabel"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatEditText
+                    android:drawablePadding="7dp"
+                    android:textColorHint="@color/textbg"
+                    android:textColor="@color/textbg"
+                    android:id="@+id/input_email"
+                    android:paddingLeft="5dp"
+                    android:imeOptions="actionNext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="14sp"
+                    android:hint="@string/enter_email_addres" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_phone_number"
+                android:layout_marginTop="8dp"
+                android:theme="@style/TextLabel"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatEditText
+                    android:drawablePadding="7dp"
+                    android:textColorHint="@color/textbg"
+                    android:textColor="@color/textbg"
+                    android:id="@+id/input_phone_number"
+                    android:paddingLeft="5dp"
+                    android:imeOptions="actionNext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="14sp"
+                    android:hint="@string/phone_number" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_county"
+                android:layout_marginTop="8dp"
+                android:theme="@style/TextLabel"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatEditText
+                    android:drawablePadding="7dp"
+                    android:textColorHint="@color/textbg"
+                    android:textColor="@color/textbg"
+                    android:id="@+id/input_county"
+                    android:paddingLeft="5dp"
+                    android:imeOptions="actionNext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="14sp"
+                    android:hint="@string/enter_county" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_government"
+                android:layout_marginTop="8dp"
+                android:theme="@style/TextLabel"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatEditText
+                    android:drawablePadding="7dp"
+                    android:textColorHint="@color/textbg"
+                    android:textColor="@color/textbg"
+                    android:id="@+id/input_government"
+                    android:paddingLeft="5dp"
+                    android:imeOptions="actionNext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="14sp"
+                    android:hint="@string/enter_government" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_city"
+                android:layout_marginTop="8dp"
+                android:theme="@style/TextLabel"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatEditText
+                    android:drawablePadding="7dp"
+                    android:textColorHint="@color/textbg"
+                    android:textColor="@color/textbg"
+                    android:id="@+id/input_city"
+                    android:paddingLeft="5dp"
+                    android:imeOptions="actionNext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="14sp"
+                    android:hint="@string/enter_city" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_password"
+                android:layout_marginTop="8dp"
+                android:theme="@style/TextLabel"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatEditText
+                    android:drawablePadding="7dp"
+                    android:textColorHint="@color/textbg"
+                    android:textColor="@color/textbg"
+                    android:id="@+id/input_password"
+                    android:paddingLeft="5dp"
+                    android:imeOptions="actionNext"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="14sp"
+                    android:hint="@string/enter_pass" />
+            </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_confrm_password"
+            android:layout_marginTop="8dp"
+            android:theme="@style/TextLabel"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <android.support.v7.widget.AppCompatEditText
+                android:drawablePadding="7dp"
+                android:textColorHint="@color/textbg"
+                android:textColor="@color/textbg"
+                android:id="@+id/input_confrm_password"
+                android:paddingLeft="5dp"
+                android:imeOptions="actionNext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:hint="@string/confrm_password" />
+        </android.support.design.widget.TextInputLayout>
+        <com.andexert.library.RippleView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/Ripple_setting"
+            android:layout_width="200dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="3dp"
+            android:layout_height="40dp"
+            android:padding="5dp"
+            android:background="@drawable/btn_login"
+            rv_centered="true">
+            <Button
+                android:text="@string/regist"
+                android:background="@drawable/btn_login"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </com.andexert.library.RippleView>
+    </LinearLayout>
+</ScrollView>
